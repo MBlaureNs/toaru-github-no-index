@@ -10,12 +10,11 @@
 
 ---
 ## Previous major-ish projects
-### [graphics](https://github.com/OokamiNya/graphics-final-project.git)
+### [graphics](https://github.com/OokamiNya/graphics-final-project.git) - [Sample output](https://github.com/OokamiNya/toaru-github-no-index/blob/master/12.gif)
 > Team members: Lawrence Lim, Jeffrey He, Jessica Ng <br>
 > Basic python-based graphics engine <br>
 > Parses instructions from file to generate images <br>
 > Able to draw and animate geometric forms and apply flat shaders from multiple light sources <br>
-> [Sample output](https://github.com/OokamiNya/toaru-github-no-index/blob/master/12.gif)
 
 ### [yoloRPG](https://github.com/corrrin9797/pathfinder.git) - [Video](https://www.youtube.com/watch?v=YJg9cKzk7hY)
 > Team members: Lawrence Lim, Jessica Ng, Corrin Offenholley, Vanessa Yan <br>
