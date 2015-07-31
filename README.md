@@ -21,7 +21,7 @@
 > Team members: Lawrence Lim, Jessica Ng, Corrin Offenholley, Vanessa Yan <br>
 > Web-based character sheet manager for tabletop RPGs <br>
 > Automatically calculates stats based on user-input base stat rolls <br>
-> JSON-defined character sheet and stat templates allow manager to work with multiple RPG systems
+> JSON-defined character sheet and stat templates allow manager to work with multiple RPG systems <br>
 > [Video](https://www.youtube.com/watch?v=YJg9cKzk7hY)
 
 ### [:^) shell](https://github.com/OokamiNya/shell.git)
@@ -32,7 +32,7 @@
 ### [gooseboard](https://github.com/CookedGoose/gooseboard.git)
 > Team members: Lawrence Lim, Thomas Hlebowicz, Hubert Puszklewicz <br>
 > Web-based multi-user whiteboard and chat <br>
-> Uses HTML canvas and MongoDB backend to store strokes
+> Uses HTML canvas and MongoDB backend to store strokes <br>
 > [Video](https://www.youtube.com/watch?v=z9LmO_UJmbE)
 
 ### [somekindofroguelikething](https://github.com/stuycs-apcs-z-fall-2013/final-pd3-lucy-lawrence-somekindofroguelikething.git)
