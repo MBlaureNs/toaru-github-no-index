@@ -17,23 +17,21 @@
 > Able to draw and animate geometric forms and apply flat shaders from multiple light sources <br>
 > [Sample output](https://github.com/OokamiNya/toaru-github-no-index/blob/master/12.gif)
 
-### [yoloRPG](https://github.com/corrrin9797/pathfinder.git)
+### [yoloRPG](https://github.com/corrrin9797/pathfinder.git) - [Video](https://www.youtube.com/watch?v=YJg9cKzk7hY)
 > Team members: Lawrence Lim, Jessica Ng, Corrin Offenholley, Vanessa Yan <br>
 > Web-based character sheet manager for tabletop RPGs <br>
 > Automatically calculates stats based on user-input base stat rolls <br>
 > JSON-defined character sheet and stat templates allow manager to work with multiple RPG systems <br>
-> [Video](https://www.youtube.com/watch?v=YJg9cKzk7hY)
 
 ### [:^) shell](https://github.com/OokamiNya/shell.git)
 > Team members: Lawrence Lim, Jessica Ng <br>
 > Simple shell in C that forks and executes given commands with friendly :^) prompt <br>
 > Handles piping and redirection appropriately
 
-### [gooseboard](https://github.com/CookedGoose/gooseboard.git)
+### [gooseboard](https://github.com/CookedGoose/gooseboard.git) - [Video](https://www.youtube.com/watch?v=z9LmO_UJmbE)
 > Team members: Lawrence Lim, Thomas Hlebowicz, Hubert Puszklewicz <br>
 > Web-based multi-user whiteboard and chat <br>
 > Uses HTML canvas and MongoDB backend to store strokes <br>
-> [Video](https://www.youtube.com/watch?v=z9LmO_UJmbE)
 
 ### [somekindofroguelikething](https://github.com/stuycs-apcs-z-fall-2013/final-pd3-lucy-lawrence-somekindofroguelikething.git)
 > Team members: Lawrence Lim, Lucy Lee <br>
