@@ -17,7 +17,7 @@
 > Able to draw and animate geometric forms and apply flat shaders from multiple light sources <br>
 > [Sample output](https://github.com/OokamiNya/toaru-github-no-index/blob/master/12.gif)
 
-### [Pathfinder](https://github.com/corrrin9797/pathfinder)
+### [yoloRPG](https://github.com/corrrin9797/pathfinder)
 > Team members: Lawrence Lim, Jessica Ng, Corrin Offenholley, Vanessa Yan <br>
 > Web-based character sheet manager for tabletop RPGs <br>
 > Automatically calculates stats based on user-input base stat rolls <br>
