@@ -1,7 +1,7 @@
 # とあるgithubのインデックス
 > A Certain Github Index <br>
 > "It's like a resume but not really!" <br>
-> 42chrono@gmail.com
+> lim.l@husky.neu.edu
 
 ----
 ## Stuff I can do
