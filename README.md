@@ -11,7 +11,10 @@
 
 ---
 ## Previous major-ish projects
-### [graphics](https://github.com/OokamiNya/graphics-final-project.git) - [Sample output](https://github.com/OokamiNya/toaru-github-no-index/blob/master/12.gif)
+### [brainfuck-rkt](https://github.com/MBlaureNs/brainfuck-rkt.git)
+> Simple brainfuck interpreter written in Racket for hackerrank [challenge](https://www.hackerrank.com/challenges/brainf-k-interpreter-fp)
+
+### [graphics](https://github.com/MBlaureNs/graphics-final-project.git) - [Sample output](https://github.com/MBlaureNs/toaru-github-no-index/blob/master/12.gif)
 > Team members: Lawrence Lim, Jeffrey He, Jessica Ng <br>
 > Basic python-based graphics engine <br>
 > Parses instructions from file to generate images <br>
@@ -23,7 +26,7 @@
 > Automatically calculates stats based on user-input base stat rolls <br>
 > JSON-defined character sheet and stat templates allow manager to work with multiple RPG systems <br>
 
-### [:^) shell](https://github.com/OokamiNya/shell.git)
+### [:^) shell](https://github.com/MBlaureNs/shell.git)
 > Team members: Lawrence Lim, Jessica Ng <br>
 > Simple shell in C that forks and executes given commands with friendly :^) prompt <br>
 > Handles piping and redirection appropriately
