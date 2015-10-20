@@ -12,7 +12,7 @@
 ---
 ## Previous major-ish projects
 ### [brainfuck-rkt](https://github.com/MBlaureNs/brainfuck-rkt.git)
-> Simple brainfuck interpreter written in Racket for hackerrank [challenge](https://www.hackerrank.com/challenges/brainf-k-interpreter-fp)
+> Simple [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in Racket for hackerrank [challenge](https://www.hackerrank.com/challenges/brainf-k-interpreter-fp)
 
 ### [graphics](https://github.com/MBlaureNs/graphics-final-project.git) - [Sample output](https://github.com/MBlaureNs/toaru-github-no-index/blob/master/12.gif)
 > Team members: Lawrence Lim, Jeffrey He, Jessica Ng <br>
