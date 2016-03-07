@@ -5,7 +5,7 @@
 ----
 ## Stuff I can do
 > Taken classes: AP CS, Software development, Systems level programming, Graphics programming <br>
-> Languages: Lisp, Python, Java, C, Javascript <br>
+> Languages: Lisp, Python, Java, C, Javascript, HTML <br>
 > Experience creating web applications using tools such as Flask, MongoDB, etc.
 
 ---
