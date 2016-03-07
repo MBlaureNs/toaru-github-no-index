@@ -22,7 +22,7 @@
 > Automatically calculates stats based on user-input base stat rolls <br>
 > JSON-defined character sheet and stat templates allow manager to work with multiple RPG systems <br>
 
-### [graphics](https://github.com/MBlaureNs/graphics-final-project.git) - [Sample image](https://github.com/MBlaureNs/toaru-github-no-index/blob/master/12.gif)
+### [graphics](https://github.com/MBlaureNs/graphics-final-project.git) - [Sample animation](https://github.com/MBlaureNs/toaru-github-no-index/blob/master/12.gif)
 > Team members: Lawrence Lim, Jeffrey He, Jessica Ng <br>
 > Basic python-based graphics engine <br>
 > Parses instructions from file to generate images <br>
