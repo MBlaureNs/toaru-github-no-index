@@ -1,6 +1,5 @@
 # とあるgithubのインデックス
 > A Certain Github Index <br>
-> "It's like a resume but not really!" <br>
 > lim.l@husky.neu.edu
 
 ----
