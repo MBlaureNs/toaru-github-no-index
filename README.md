@@ -11,18 +11,18 @@
 ---
 ## Previous major-ish projects
 
-### [gooseboard](https://github.com/CookedGoose/gooseboard.git) - [Youtube Video](https://www.youtube.com/watch?v=z9LmO_UJmbE)
+### [gooseboard](https://github.com/CookedGoose/gooseboard.git) - [Youtube video](https://www.youtube.com/watch?v=z9LmO_UJmbE)
 > Team members: Lawrence Lim, Thomas Hlebowicz, Hubert Puszklewicz <br>
 > Web-based multi-user whiteboard and chat <br>
 > Uses HTML canvas and MongoDB backend to store strokes <br>
 
-### [yoloRPG](https://github.com/corrrin9797/pathfinder.git) - [Youtube Video](https://www.youtube.com/watch?v=YJg9cKzk7hY)
+### [yoloRPG](https://github.com/corrrin9797/pathfinder.git) - [Youtube video](https://www.youtube.com/watch?v=YJg9cKzk7hY)
 > Team members: Lawrence Lim, Jessica Ng, Corrin Offenholley, Vanessa Yan <br>
 > Web-based character sheet manager for tabletop RPGs <br>
 > Automatically calculates stats based on user-input base stat rolls <br>
 > JSON-defined character sheet and stat templates allow manager to work with multiple RPG systems <br>
 
-### [graphics](https://github.com/MBlaureNs/graphics-final-project.git) - [Sample output](https://github.com/MBlaureNs/toaru-github-no-index/blob/master/12.gif)
+### [graphics](https://github.com/MBlaureNs/graphics-final-project.git) - [Sample image](https://github.com/MBlaureNs/toaru-github-no-index/blob/master/12.gif)
 > Team members: Lawrence Lim, Jeffrey He, Jessica Ng <br>
 > Basic python-based graphics engine <br>
 > Parses instructions from file to generate images <br>
