@@ -10,8 +10,17 @@
 
 ---
 ## Previous major-ish projects
-### [brainfuck-rkt](https://github.com/MBlaureNs/brainfuck-rkt.git)
-> Simple [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in Racket for hackerrank [challenge](https://www.hackerrank.com/challenges/brainf-k-interpreter-fp)
+
+### [gooseboard](https://github.com/CookedGoose/gooseboard.git) - [Youtube Video](https://www.youtube.com/watch?v=z9LmO_UJmbE)
+> Team members: Lawrence Lim, Thomas Hlebowicz, Hubert Puszklewicz <br>
+> Web-based multi-user whiteboard and chat <br>
+> Uses HTML canvas and MongoDB backend to store strokes <br>
+
+### [yoloRPG](https://github.com/corrrin9797/pathfinder.git) - [Youtube Video](https://www.youtube.com/watch?v=YJg9cKzk7hY)
+> Team members: Lawrence Lim, Jessica Ng, Corrin Offenholley, Vanessa Yan <br>
+> Web-based character sheet manager for tabletop RPGs <br>
+> Automatically calculates stats based on user-input base stat rolls <br>
+> JSON-defined character sheet and stat templates allow manager to work with multiple RPG systems <br>
 
 ### [graphics](https://github.com/MBlaureNs/graphics-final-project.git) - [Sample output](https://github.com/MBlaureNs/toaru-github-no-index/blob/master/12.gif)
 > Team members: Lawrence Lim, Jeffrey He, Jessica Ng <br>
@@ -19,21 +28,13 @@
 > Parses instructions from file to generate images <br>
 > Able to draw and animate geometric forms and apply flat shaders from multiple light sources <br>
 
-### [yoloRPG](https://github.com/corrrin9797/pathfinder.git) - [Video](https://www.youtube.com/watch?v=YJg9cKzk7hY)
-> Team members: Lawrence Lim, Jessica Ng, Corrin Offenholley, Vanessa Yan <br>
-> Web-based character sheet manager for tabletop RPGs <br>
-> Automatically calculates stats based on user-input base stat rolls <br>
-> JSON-defined character sheet and stat templates allow manager to work with multiple RPG systems <br>
+### [brainfuck-rkt](https://github.com/MBlaureNs/brainfuck-rkt.git)
+> Simple [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in Racket for hackerrank [challenge](https://www.hackerrank.com/challenges/brainf-k-interpreter-fp)
 
 ### [:^) shell](https://github.com/MBlaureNs/shell.git)
 > Team members: Lawrence Lim, Jessica Ng <br>
 > Simple shell in C that forks and executes given commands with friendly :^) prompt <br>
 > Handles piping and redirection appropriately
-
-### [gooseboard](https://github.com/CookedGoose/gooseboard.git) - [Video](https://www.youtube.com/watch?v=z9LmO_UJmbE)
-> Team members: Lawrence Lim, Thomas Hlebowicz, Hubert Puszklewicz <br>
-> Web-based multi-user whiteboard and chat <br>
-> Uses HTML canvas and MongoDB backend to store strokes <br>
 
 ### [somekindofroguelikething](https://github.com/stuycs-apcs-z-fall-2013/final-pd3-lucy-lawrence-somekindofroguelikething.git)
 > Team members: Lawrence Lim, Lucy Lee <br>
