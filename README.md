@@ -1,5 +1,5 @@
 # とあるgithubのインデックス
-> A Certain Github Index <br>
+> A Certain Github Index - Lawrence Lim<br>
 > lim.l@husky.neu.edu
 
 ----
