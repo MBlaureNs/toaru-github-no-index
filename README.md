@@ -6,7 +6,8 @@
 ## Stuff I can do
 > Taken classes: AP CS, Software development, Systems level programming, Graphics programming <br>
 > Languages: Lisp, Python, Java, C, Javascript, HTML <br>
-> Experience creating web applications using tools such as Flask, MongoDB, etc.
+> Experience creating web applications using tools such as Flask, MongoDB, etc. <br>
+> Some competitive programming experience, ranked in top 1000 on HackerRank: [Profile](https://www.hackerrank.com/MBlaureNs)
 
 ---
 ## Previous major-ish projects
